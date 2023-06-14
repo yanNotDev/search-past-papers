@@ -10,9 +10,9 @@
     "bin": {
         "spp": "index.js"
     },
-    "keywords": [],
+    "keywords": ["cli"],
     "author": "sayaa",
-    "license": "ISC",
+    "license": "GPLv3",
     "dependencies": {
         "@inquirer/prompts": "^2.1.1",
         "axios": "^1.4.0",
