@@ -11,7 +11,7 @@
         "spp": "index.js"
     },
     "keywords": [],
-    "author": "",
+    "author": "sayaa",
     "license": "ISC",
     "dependencies": {
         "@inquirer/prompts": "^2.1.1",
