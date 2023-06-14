@@ -1,0 +1,31 @@
+{
+    "name": "cli",
+    "version": "1.0.0",
+    "description": "CLI tool for downloading CAIE past papers",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "spp": "index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@inquirer/prompts": "^2.1.1",
+        "axios": "^1.4.0",
+        "fs": "^0.0.1-security",
+        "inquirer-search-list": "^1.2.6",
+        "nanospinner": "^1.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yanNotDev/search-past-papers.git"
+    },
+    "bugs": {
+        "url": "https://github.com/yanNotDev/search-past-papers/issues"
+    },
+    "homepage": "https://github.com/yanNotDev/search-past-papers#README"
+}
